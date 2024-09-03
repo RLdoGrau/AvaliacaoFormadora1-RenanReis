@@ -1,0 +1,7 @@
+{
+  "name": "AvaliaçãoFormadoraI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
